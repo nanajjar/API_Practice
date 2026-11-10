@@ -7,11 +7,14 @@ In this activity you'll use two public [Open-Meteo](https://open-meteo.com/) end
 1. Install Python 3.10 or later.
 2. From this repository's directory, install the one external library:
 
+   ```
    python -m pip install -r requirements.txt
+   ```
 
 3. Run the starter program:
-
+   ```
    python main.py
+   ```
 
 4. Complete the `TODO` markers in the suggested order below. The starter program intentionally raises `NotImplementedError` for tasks you haven't implemented yet.
 
