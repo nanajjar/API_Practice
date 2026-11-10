@@ -17,6 +17,7 @@ In this activity you'll use two public [Open-Meteo](https://open-meteo.com/) end
 
 ## Project layout
 
+```
 weather_api/
 ├── main.py                 # Menu and user interaction
 ├── api_client.py           # Reusable HTTP GET + JSON helper
@@ -25,7 +26,7 @@ weather_api/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
-
+```
 ## Useful API endpoints
 
 - Geocoding: `https://geocoding-api.open-meteo.com/v1/search`
