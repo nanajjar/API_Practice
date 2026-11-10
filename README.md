@@ -1,6 +1,6 @@
-# Weather API Lab - Starter Repository
+# Weather API Practice - Starter Repository
 
-In this lab you'll use two public [Open-Meteo](https://open-meteo.com/) endpoints to explore cities and current weather. You'll build the solution **one function at a time**, keeping API communication separate from display and user interaction.
+In this activity you'll use two public [Open-Meteo](https://open-meteo.com/) endpoints to explore cities and current weather. You'll build the solution **one function at a time**, keeping API communication separate from display and user interaction.
 
 ## Getting started
 
